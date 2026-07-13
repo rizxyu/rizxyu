@@ -1,29 +1,124 @@
 <div align="center">
-    <h1 align="left">Introduction 👋</h1>
-    <p>
-        <img
-            src="https://c.tenor.com/VU0A6lggN7UAAAAC/gawr-gura-gura.gif"
-            width="400px"
-            height="auto"
-        />
-    </p>
-    
 
-<h1 align="center">Hi 👋, I'm Rizyxu</h1>
+# ✨ <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&duration=2500&pause=1200&color=6EE7FF&center=true&vCenter=true&width=500&lines=Rizky+A.;Frontend+Developer;UI%2FUX+Designer;Always+Learning+New+Things" />
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rizxyu&label=Profile%20views&color=0e75b6&style=flat" alt="rizxyu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rizxyu" alt="rizxyu" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rizxyu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rizxyu" height="30" width="40" /></a>
-<a href="https://instagram.com/kyad_uei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kyad_uei" height="30" width="40" /></a>
+<p>
+Building modern websites, creating beautiful interfaces, and exploring new technologies.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7C3AED,100:FF00AA&height=160&section=header"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizxyu&show_icons=true&theme=dracula&locale=en&layout=compact" alt="rizxyu" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizxyu&show_icons=true&theme=dracula&locale=en" alt="rizxyu" /></p>
+---
+
+# 🚀 About Me
+
+```ts
+const rizky = {
+    name: "Rizky A.",
+    role: "Frontend Developer",
+    location: "Indonesia 🇮🇩",
+    passion: [
+        "Web Development",
+        "UI/UX Design",
+        "Open Source",
+        "Creative Coding"
+    ],
+    currentlyLearning: [
+        "Next.js",
+        "Performance Optimization",
+        "Backend Development"
+    ]
+}
+```
+
+---
+
+# 💻 Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp"/>
+
+### Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=tailwind,nextjs,vue,vite,nodejs"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,npm"/>
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=rizxyu&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=rizxyu&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rizxyu&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+# 🌟 Activity Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=rizxyu&theme=tokyo-night)
+
+---
+
+# 🎮 Mini Game
+
+<div align="center">
+
+## 🐍 Snake Eating My Contributions
+
+![](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+## 🎯 Click Counter
+
+<img src="https://komarev.com/ghpvc/?username=rizxyu&style=for-the-badge&color=blueviolet"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://t.me/ruiannid">
+<img src="https://img.shields.io/badge/Telegram-ruiannid-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/kyad_ue">
+<img src="https://img.shields.io/badge/Instagram-kyad__ue-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/users/carrot_5">
+<img src="https://img.shields.io/badge/Discord-carrot__5-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## ✨ Quote
+
+> *"Keep building. Keep learning. Every line of code brings you closer to something amazing."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00AA,50:7C3AED,100:00F5FF&height=140&section=footer"/>
