@@ -23,7 +23,7 @@
 
 # Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,mysql,supabase,aws,gcp,azure,do,react,vue,java,flutter,ae,ps,figma,vscode,androidstudio&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,c++,php,laravel,vite,next,vue,react,aws,azure,ae,ps,figma,docker,cloudflare&perline=5)](https://skillicons.dev)
 ---
 
 # 📊 GitHub Stats
