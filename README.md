@@ -23,14 +23,7 @@
 
 # Tech Stack
 
-<div align="center">
-    
-<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp"/>
-<img src="https://skillicons.dev/icons?i=tailwind,nextjs,vue,vite,nodejs"/>
-<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,npm">
-<img src="https://skillicons.dev/icons?i=ae,ps,ai,androidstudio">
-</div>
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,mysql,supabase,aws,gcp,azure,do,react,vue,java,flutter,ae,ps,figma,vscode,androidstudio&perline=5)](https://skillicons.dev)
 ---
 
 # 📊 GitHub Stats
