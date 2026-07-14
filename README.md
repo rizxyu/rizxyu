@@ -39,8 +39,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=rizxyu&show_icons=true&theme=tokyonight&hide_border=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rizxyu&theme=tokyonight&hide_border=true)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizxyu&layout=compact&theme=tokyonight&hide_border=true">
-
 </div>
 
 
@@ -48,7 +46,7 @@
 # Activity
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=rizxyu&theme=tokyo-night)
-![](https://github-profile-trophy.vercel.app/?username=rizxyu&theme=darkhub)
+![](https://gh-trophy.rizxyudev.biz.id/?username=rizxyu&theme=alduin)
 
 <div align="center">
 
